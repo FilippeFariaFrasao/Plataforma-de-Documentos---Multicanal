@@ -52,12 +52,15 @@ src/
    ```bash
    npm install
    ```
-3. Configure as variáveis de ambiente (veja o arquivo `.env.example`)
-4. Inicie o servidor de desenvolvimento
+3. Acesso o arquivo `DEPENDENCIES.md` para instalar os pacotes restantes
+   
+5. Configure as variáveis de ambiente (veja o arquivo `.env.example`)
+   
+7. Inicie o servidor de desenvolvimento
    ```bash
    npm run dev
    ```
-5. Acesse `http://localhost:3000`
+8. Acesse `http://localhost:3000`
 
 ## Licença
 
