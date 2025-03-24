@@ -6,7 +6,7 @@ Sistema interno para centralização, organização e gerenciamento da documenta
 
 A Plataforma de Documentos Multicanal é uma solução interna desenvolvida para centralizar toda a documentação da empresa, facilitando o acesso, busca e manutenção de procedimentos operacionais, manuais técnicos e outros documentos importantes.
 
-### Principais funcionalidades
+## Principais funcionalidades
 
 - Organização por departamentos
 - Busca avançada em títulos e conteúdo 
