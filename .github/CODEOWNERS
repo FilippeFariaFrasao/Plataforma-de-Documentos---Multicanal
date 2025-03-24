@@ -1,0 +1,16 @@
+# Proprietários do código da Plataforma de Documentos Multicanal
+# Veja mais informações em: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Estes proprietários serão solicitados para revisão quando alguém abrir um pull request
+* @FilippeFariaFrasao
+
+# Configurações específicas para pastas principais
+/src/app/ @FilippeFariaFrasao
+/src/components/ @FilippeFariaFrasao
+/supabase/ @FilippeFariaFrasao
+
+# Arquivos de configuração
+*.json @FilippeFariaFrasao
+*.js @FilippeFariaFrasao
+*.ts @FilippeFariaFrasao
+*.tsx @FilippeFariaFrasao 
