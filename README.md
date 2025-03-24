@@ -45,6 +45,9 @@ src/
 ## Instalação e uso
 
 1. Clone o repositório
+   ```bash
+   git clone https://github.com/FilippeFariaFrasao/Plataforma-de-Documentos---Multicanal.git
+   ```
 2. Instale as dependências
    ```bash
    npm install
